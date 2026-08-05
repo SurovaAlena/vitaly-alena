@@ -1,3 +1,4 @@
+
 const weddingDate = new Date('2026-11-07T15:00:00+07:00');
 const pad = n => String(Math.max(0, n)).padStart(2, '0');
 function updateCountdown(){
@@ -36,3 +37,4 @@ form.addEventListener('submit', async event => {
     status.textContent = 'Спасибо! Ваш ответ заполнен. Подключение автоматической отправки добавим позже.';
   }
 });
+
