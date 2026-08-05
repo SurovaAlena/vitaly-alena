@@ -8,3 +8,4 @@
 - папку fonts
 
 Затем: Settings → Pages → Deploy from a branch → main → /(root) → Save.
+GitHub Pages enabled.
